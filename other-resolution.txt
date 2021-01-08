@@ -2,6 +2,10 @@ Other resolution
 
 - Exercise more.
  * codewars
+ * codecombat
+ * codepen
+ * freecodecamp
+ 
 - Lose weight.
 - Get organized.
 - Learn a new skill or hobby.
