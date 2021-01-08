@@ -1,6 +1,7 @@
 Other resolution
 
 - Exercise more.
+ * codewars
 - Lose weight.
 - Get organized.
 - Learn a new skill or hobby.
