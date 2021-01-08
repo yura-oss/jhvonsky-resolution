@@ -2,7 +2,10 @@ Other resolution
 
 - Exercise more.
  * codewars
+  ^ 8-6 kyu
  * codecombat
+  ^ sign-in
+  ^ log-in
  * codepen
  * freecodecamp
  
